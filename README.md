@@ -31,7 +31,11 @@ Built using the powerful frameworks of **Next.js** and **Three.js**, Learnify bl
 
 ## 📸 Preview
 <img width="1459" alt="Screenshot 2025-05-20 at 10 31 03 PM" src="https://github.com/user-attachments/assets/584cc385-e395-40d3-9fa2-23811f3bdbec" />
-
+<img width="1465" alt="Screenshot 2025-05-22 at 2 30 27 PM" src="https://github.com/user-attachments/assets/3679d4b6-8fc0-43c1-8e48-16b7b28c5ba0" />
+<img width="1466" alt="Screenshot 2025-05-22 at 2 30 42 PM" src="https://github.com/user-attachments/assets/ca8e3524-eb27-4ec3-9ddc-f99fcb85f329" />
+<img width="1462" alt="Screenshot 2025-05-22 at 2 30 52 PM" src="https://github.com/user-attachments/assets/b07488ab-479c-4b3d-8a5f-0b7f782fc6fe" />
+<img width="1463" alt="Screenshot 2025-05-22 at 2 30 58 PM" src="https://github.com/user-attachments/assets/6ab5bdcd-e774-43c7-977f-4bd39cf18d31" />
+<img width="1460" alt="Screenshot 2025-05-22 at 2 31 04 PM" src="https://github.com/user-attachments/assets/e884dd74-223f-4b3b-b9fa-fc4ea646052d" />
 
 ---
 
